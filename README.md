@@ -5,6 +5,7 @@
 - [Contributions](#Contributions)
 - [Data Generation](#data-generation)
 - [Benchmark Codes](#benchmark-codes)
+- [Related nuPlan Implementation](#related-nuplan-implementation)
 - [Acknowledgment](#acknowledgment)
 
 ## Contributions
@@ -84,10 +85,14 @@ python metric_codes/kmeans_21.py
 
 For the detailed results, please refer to our paper.
 
+## Related nuPlan Implementation
+You can find more in `/tuplan_plugin/`
+
 ## Acknowledgment
 - [VAD](https://github.com/hustvl/VAD)
 - [UniAD](https://github.com/OpenDriveLab/UniAD)
 - [GPT-driver](https://github.com/PointsCoder/GPT-Driver)
 - [AD-MLP](https://github.com/E2E-AD/AD-MLP)
+- [tuplan-garage](https://github.com/autonomousvision/tuplan_garage)
 
 Sincere appreciation for their great contributions.
