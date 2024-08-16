@@ -25,7 +25,8 @@ NUPLAN_DEVKIT_ROOT="$HOME/nuplan-devkit/"
 
 ### 2. Training
 Training scripts can be run with the scripts found in `/scripts/training/`.
-You can also find the official trained models [here](https://drive.google.com/drive/folders/1LLdunqyvQQuBuknzmf7KMIJiA2grLYB2?usp=sharing).
+You can also download the trained models [here](https://drive.google.com/drive/folders/1TAGvivpaOitocRemKwbo2if0qnyhK_o9?usp=sharing).
+- Notes: `pdm_open_checkpoint.ckpt` is for PDM-open, and `pdm_offset_checkpoint.ckpt` is for PDM-projection and PDM-Offset
 
 ### 3. Open-loop Inference and Closed-loop evaluation
 Corresponding scripts can be run with the scripts found in `/scripts/simulation/`.

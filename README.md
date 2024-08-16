@@ -88,6 +88,8 @@ For the detailed results, please refer to our paper.
 ## Related nuPlan Implementation
 You can find more in `/tuplan_plugin/`
 
+The `/tuplan_plugin/README.md` shows the training, inference and evaluation for nuplan benchmarks.
+
 ## Acknowledgment
 - [VAD](https://github.com/hustvl/VAD)
 - [UniAD](https://github.com/OpenDriveLab/UniAD)
