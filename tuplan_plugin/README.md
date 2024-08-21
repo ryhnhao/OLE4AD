@@ -43,4 +43,4 @@ Modify and Run the following codes to generate predicted trajectory and ground_t
 python scripts/analysis/open_loop_traj.py
 ```
 
-Then turn to run our metric codes.
+Then turn to run our [metric codes](../metric_codes/nuplan).
