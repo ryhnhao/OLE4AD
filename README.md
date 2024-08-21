@@ -9,6 +9,7 @@
 - [Benchmark Codes](#benchmark-codes)
 - [Related nuPlan Implementation](#related-nuplan-implementation)
 - [Acknowledgment](#acknowledgment)
+- [License](#license)
 
 ## TODO List
 - [x] Code and Data for Quick Evaluation Release
@@ -110,3 +111,9 @@ The `/tuplan_plugin/README.md` shows the training, inference and evaluation for 
 - [tuplan-garage](https://github.com/autonomousvision/tuplan_garage)
 
 Sincere appreciation for their great contributions.
+
+
+## License
+
+Before using the dataset, you should register on the [nuScenes](https://www.nuscenes.org/nuscenes) website and agree to the terms of use of the [nuScenes](https://www.nuscenes.org/nuscenes). 
+The code and the generated data are both subject to the [MIT License](./LICENSE).
